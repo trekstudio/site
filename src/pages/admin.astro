@@ -15,10 +15,14 @@ const url = Astro.site;
 const config = {
   locale: lang,
   site_url: url,
-  logo_url: "https://nebulix.unfolding.io/logo.svg",
+  logo_url: "https://trek.studio/logo.svg",
   local_backend: true,
   backend: {
-    name: "test-repo",
+    name: "github",
+		repo: 'trekstudio/site',
+    // api_root: "https://api.github.com",
+    // base_url: "https://api.netlify.com",
+    // auth_endpoint: "auth",
   },
   search: "true",
   media_folder: "src/assets",
