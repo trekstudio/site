@@ -72,15 +72,15 @@ npm run build
 <!-- reporting issue -->
 ## 🐞Reporting Issues
 
-We use GitHub Issues as the official bug tracker for this Template. Please Search [existing issues](https://github.com/fitstud-io/site/issues). It’s possible someone has already reported the same problem.
-If your problem or idea has not been addressed yet, feel free to [open a new issue](https://github.com/fitstud-io/site/issues).
+We use GitHub Issues as the official bug tracker for this Template. Please Search [existing issues](https://github.com/huzl-org/site/issues). It’s possible someone has already reported the same problem.
+If your problem or idea has not been addressed yet, feel free to [open a new issue](https://github.com/huzl-org/site/issues).
 
 <!-- licence -->
 ## 📄License
 
-Copyright (c) 2023 - Present, Designed & Developed by [FITSTUD.IO](https://fitstud.io)
+Copyright (c) 2023 - Present, Designed & Developed by [FITSTUD.IO](https://huzl-org)
 
-**Code License:** Released under the [MIT](https://github.com/fitstud-io/site/blob/main/LICENSE) license.
+**Code License:** Released under the [MIT](https://github.com/huzl-org/site/blob/main/LICENSE) license.
 
 **Image license:** The images are only for demonstration purposes. They have their license, we don't have permission to share those images.
 # site
