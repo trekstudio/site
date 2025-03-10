@@ -2,12 +2,13 @@
 // You can import this data from anywhere in your site by using the `import` keyword.
 
 // Base Page Metadata, src/layouts/BaseLayout.astro
-export const BRAND_NAME = "FITSTUD.IO";
-export const SITE_TITLE = "FITSTUD.IO";
-export const SITE_DESCRIPTION = "A fitness blog built by a nerd for Gym Rats";
+export const BRAND_NAME = "HUZL.ORG";
+export const SITE_TITLE = "HUZL.ORG";
+export const BRAND_FOOT = "HUZL LLC";
+export const SITE_DESCRIPTION = "A living guide on side hustles.";
 
 // Tags Page Metadata, src/pages/tags/index.astro
-export const Tags_TITLE = "FITSTUD.IO - All Tags";
+export const Tags_TITLE = "HUZL.ORG - All Tags";
 export const Tags_DESCRIPTION =
   "All tags and the count of articles related to each tag";
 
@@ -29,10 +30,10 @@ export function getCategoryMetadata(category: string) {
 
 // Header Links, src/components/Header.astro
 export const HeaderLinks = [
-  { href: "/category/fitness/1/", title: "Fitness" },
+  { href: "/category/gigs/1/", title: "Gigs" },
   { href: "/category/mindset/1/", title: "Mindset" },
-  { href: "/category/nutrition/1/", title: "Nutrition" },
-  { href: "/category/podcasts/1/", title: "Podcasts" },
+  { href: "/category/finance/1/", title: "Finance" },
+  { href: "/category/podcasts/1/", title: "Podcast" },
 ];
 
 // Footer Links, src/components/Footer.astro
@@ -40,7 +41,6 @@ export const FooterLinks = [
   { href: "/about/", title: "About" },
   { href: "/contact/", title: "Contact" },
   { href: "/partners/", title: "Partners" },
-  { href: "/supplements/", title: "Supplements" },
   // { href: "/", title: "Swag" },
 ];
 
@@ -54,7 +54,7 @@ export const LegalLinks = [
 export const SocialLinks = [
   { href: "/rss.xml", icon: "tabler:rss", label: "RSS" },
   {
-    href: "https://instagram.com/fitstud.io",
+    href: "https://instagram.com/side.huzl",
     icon: "tabler:brand-instagram",
     label: "Instagram",
   },

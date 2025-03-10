@@ -1,5 +1,5 @@
-<h1 align=center>FITSTUD.IO</h1>
-<p align=center>This is a feature-rich, minimal, highly customizable, easy-to-use Astro blog theme for FITSTUD.IO.</p>
+<h1 align=center>HUZL.ORG</h1>
+<p align=center>This is a feature-rich, minimal, highly customizable, easy-to-use Astro blog theme for HUZL.ORG.</p>
 <h2 align="center"> <a  target="_blank" href="https://pagespeed.web.dev/report?url=https%3A%2F%2Fbookworm-light-astro.vercel.app%2F&form_factor=desktop">Page Speed (100%)🚀</a>
 </h2>
 <p align=center>
