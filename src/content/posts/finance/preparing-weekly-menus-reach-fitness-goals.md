@@ -3,7 +3,7 @@ slug: preparing-weekly-menus-reach-fitness-goals
 title: "Meal Planning for Athletes: Preparing Weekly Menus to Reach Your Fitness Goals"
 description: "To fuel your body optimally, meal planning becomes an essential tool in your toolkit."
 category:
-  - nutrition
+  - finance
 tags:
   - meal
   - planning
