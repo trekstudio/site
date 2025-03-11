@@ -3,7 +3,7 @@ slug: podcast-coming-soon
 title: "Podcast is coming soon"
 description: "Exclusive content is coming soon to my vlog and podcast."
 category:
-  - podcasts
+  - podcast
 tags:
   - health
   - depression
