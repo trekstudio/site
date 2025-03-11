@@ -30,7 +30,7 @@ export default defineConfig({
 
   image: {
     cacheDir: "./.cache/image",
-    defaultFormat: "avif",
+    defaultFormat: "webp",
   },
 
   markdown: {
