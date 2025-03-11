@@ -9,8 +9,7 @@ export const SITE_DESCRIPTION = "A living guide on side hustles.";
 
 // Tags Page Metadata, src/pages/tags/index.astro
 export const Tags_TITLE = "HUZL.ORG - All Tags";
-export const Tags_DESCRIPTION =
-  "All tags and the count of articles related to each tag";
+export const Tags_DESCRIPTION = "All tags and the count of articles related to each tag";
 
 // Tags Page Metadata, src/pages/tags/[tag]/[page].astro
 export function getTagMetadata(tag: string) {
@@ -30,7 +29,7 @@ export function getCategoryMetadata(category: string) {
 
 // Header Links, src/components/Header.astro
 export const HeaderLinks = [
-  { href: "/category/gigs/1/", title: "Gigs" },
+  { href: "/category/hustles/1/", title: "Hustles" },
   { href: "/category/mindset/1/", title: "Mindset" },
   { href: "/category/finance/1/", title: "Finance" },
   { href: "/category/podcasts/1/", title: "Podcast" },
