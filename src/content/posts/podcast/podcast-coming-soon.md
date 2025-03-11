@@ -5,8 +5,8 @@ description: "Exclusive content is coming soon to my vlog and podcast."
 category:
   - podcast
 tags:
-  - health
-  - depression
+  - hustle
+  - finance
 pubDate: 2025-09-23
 cover: "../assets/images/podcast-coming-soon.jpg"
 author: Damien Wright

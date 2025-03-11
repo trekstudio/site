@@ -32,7 +32,7 @@ export const HeaderLinks = [
   { href: "/category/hustles/1/", title: "Hustles" },
   { href: "/category/mindset/1/", title: "Mindset" },
   { href: "/category/finance/1/", title: "Finance" },
-  { href: "/category/podcasts/1/", title: "Podcast" },
+  { href: "/category/podcast/1/", title: "Podcast" },
 ];
 
 // Footer Links, src/components/Footer.astro
