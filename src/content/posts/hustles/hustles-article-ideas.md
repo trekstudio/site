@@ -9,7 +9,7 @@ tags:
   - success
   - positivity
 pubDate: 2023-04-01
-cover: "../assets/images/hustles-article-ideas.webp"
+cover: "../assets/images/freelance-writing.webp"
 coverAlt: Achieving a Positive Fitness Mindset
 author: Damien Wright
 draft: true

@@ -9,8 +9,7 @@ tags:
   - success
   - positivity
 pubDate: 2023-04-01
-cover: "../assets/images/mindset-article-ideas.webp"
-coverAlt: Achieving a Positive Fitness Mindset
+cover: "../assets/images/freelance-writing.webp"
 author: Damien Wright
 draft: true
 ---
