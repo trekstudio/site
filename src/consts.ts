@@ -53,7 +53,7 @@ export const LegalLinks = [
 export const SocialLinks = [
   { href: "/rss.xml", icon: "tabler:rss", label: "RSS" },
   {
-    href: "https://instagram.com/side.huzl",
+    href: "https://instagram.com/huzl_org",
     icon: "tabler:brand-instagram",
     label: "Instagram",
   },
@@ -68,7 +68,7 @@ export const SocialLinks = [
     label: "GitHub",
   },
   {
-    href: "https://youtube.com/@huzl",
+    href: "https://youtube.com/@huzl-org",
     icon: "tabler:brand-youtube",
     label: "YouTube",
   },
