@@ -3,9 +3,9 @@
 
 // Base Page Metadata, src/layouts/BaseLayout.astro
 export const BRAND_NAME = "HUZL.ORG";
-export const SITE_TITLE = "HUZL.ORG";
+export const SITE_TITLE = "HUZL";
 export const BRAND_FOOT = "HUZL LLC";
-export const SITE_DESCRIPTION = "A living guide on side hustles.";
+export const SITE_DESCRIPTION = "Find your side hustle, get that hustle mindset, live your life!";
 
 // Tags Page Metadata, src/pages/tags/index.astro
 export const Tags_TITLE = "HUZL.ORG - All Tags";
