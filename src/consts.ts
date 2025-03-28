@@ -2,13 +2,13 @@
 // You can import this data from anywhere in your site by using the `import` keyword.
 
 // Base Page Metadata, src/layouts/BaseLayout.astro
-export const BRAND_NAME = "HUZL.ORG";
-export const SITE_TITLE = "HUZL";
+export const BRAND_NAME = "trekstud.io";
+export const SITE_TITLE = "trekstud.io";
 export const BRAND_FOOT = "HUZL LLC";
-export const SITE_DESCRIPTION = "Find your side hustle, get that hustle mindset, live your life!";
+export const SITE_DESCRIPTION = "A blog about my backpacking adventures kayaking trips backcountry camping bushcraft survival and all the gear that goes with. Read gear reviews and latest posts!";
 
 // Tags Page Metadata, src/pages/tags/index.astro
-export const Tags_TITLE = "HUZL.ORG - All Tags";
+export const Tags_TITLE = "trekstud.io - All Tags";
 export const Tags_DESCRIPTION = "All tags and the count of articles related to each tag";
 
 // Tags Page Metadata, src/pages/tags/[tag]/[page].astro
@@ -29,10 +29,10 @@ export function getCategoryMetadata(category: string) {
 
 // Header Links, src/components/Header.astro
 export const HeaderLinks = [
-  { href: "/category/hustles/1/", title: "Hustles" },
-  { href: "/category/mindset/1/", title: "Mindset" },
-  { href: "/category/finance/1/", title: "Finance" },
-  { href: "/category/podcast/1/", title: "Podcast" },
+  { href: "/category/backpacking/1/", title: "Backpacking" },
+  { href: "/category/camping/1/", title: "Camping" },
+  { href: "/category/kayaking/1/", title: "Kayaking" },
+  { href: "/tags/gear/1/", title: "Gear" },
 ];
 
 // Footer Links, src/components/Footer.astro

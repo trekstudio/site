@@ -28,8 +28,9 @@ export default {
       ],
     },
     extend: {
+      // fcb860, 69914b, 366030
       colors: {
-        primary: '#dc2626',
+        primary: '#69914b',
         secondary: 'var(--fs-color-secondary)',
         accent: 'var(--fs-color-accent)',
         default: 'var(--fs-color-text-default)',

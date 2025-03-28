@@ -17,7 +17,7 @@ import tailwind from "@astrojs/tailwind";
 export default defineConfig({
   output: 'static',
 
-  site: "https://huzl.org/",
+  site: "https://trekstud.io/",
   trailingSlash: "ignore",
   prefetch: {
     prefetchAll: true,
