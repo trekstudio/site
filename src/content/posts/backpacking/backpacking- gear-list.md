@@ -3,7 +3,7 @@ slug: backpacking-gear-list
 title: "Backpacking Gear List"
 description: "An up-to-date, carefully curated compilation of backpacking gear. Every item listed here is either currently in my possession or has been personally tested and used by me in the past."
 category:
-  - backpaxking
+  - backpacking
 tags:
   - gear
   - tips
@@ -14,28 +14,27 @@ author: Damien Wright
 draft: false
 ---
 
-## A maintaned curated list of backpacking gear
+*The only exceptions are products intended for women, for which I've chosen the male equivalents that I currently own.*
 
-All the items on this list are either in my possession or have been used by me in the past. The only exceptions are products intended for women, for which I've chosen the male equivalents that I currently own. Prior to embarking on any journey, it's crucial to conduct extensive research on the expected weather conditions and terrain. This research will have a substantial impact on your packing requirements and the overall weight of your backpack.
+Prior to embarking on any journey, it's crucial to conduct extensive research on the expected weather conditions and terrain. This research will have a substantial impact on your packing requirements and the overall weight of your backpack.
 
 Also all items that are <mark>highlighted</mark> are highly recomended.
 
 **Table of Contents**
 
-- [A maintaned curated list of backpacking gear](#a-maintaned-curated-list-of-backpacking-gear)
-  - [ Backpacks, Bags, and Sacks](#-backpacks-bags-and-sacks)
-  - [ Shelter Gear](#-shelter-gear)
-  - [ Sleep System Gear](#-sleep-system-gear)
-  - [ Water Filtration Gear](#-water-filtration-gear)
-  - [ Cooking Gear](#-cooking-gear)
-  - [ Electronic Gear](#-electronic-gear)
-  - [ Layered Clothing](#-layered-clothing)
-  - [ Socks, Gloves, and Shoes](#-socks-gloves-and-shoes)
-  - [ Rain gear](#-rain-gear)
-  - [ Winter Gear](#-winter-gear)
-  - [ Other Stuff](#-other-stuff)
-  - [ Food \& Snacks](#-food--snacks)
-  - [ Vitamins \& Nutrition](#-vitamins--nutrition)
+- [ Backpacks, Bags, and Sacks](#-backpacks-bags-and-sacks)
+- [ Shelter Gear](#-shelter-gear)
+- [ Sleep System Gear](#-sleep-system-gear)
+- [ Water Filtration Gear](#-water-filtration-gear)
+- [ Cooking Gear](#-cooking-gear)
+- [ Electronic Gear](#-electronic-gear)
+- [ Layered Clothing](#-layered-clothing)
+- [ Socks, Gloves, and Shoes](#-socks-gloves-and-shoes)
+- [ Rain gear](#-rain-gear)
+- [ Winter Gear](#-winter-gear)
+- [ Other Stuff](#-other-stuff)
+- [ Food \& Snacks](#-food--snacks)
+- [ Vitamins \& Nutrition](#-vitamins--nutrition)
 
 ### <a name="backpacks"></a> Backpacks, Bags, and Sacks
 

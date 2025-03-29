@@ -14,7 +14,7 @@ author: Damien Wright
 draft: false
 ---
 
-## Fish better – even in rough waters. 
+## Fish better – even in rough waters.
 
 <a href="https://amzn.to/3Pn749U" rel=”nofollow” target="_blank" title="ELKTON OUTDOORS STEELHEAD 2 PERSON INFLATABLE FISHING KAYAK">ELKTON OUTDOORS STEELHEAD 2 PERSON INFLATABLE FISHING KAYAK</a>
 
@@ -22,7 +22,7 @@ The Elkton Outdoors Inflatable Steelhead Fishing kayak is made to give you optim
 
 <a href="https://amzn.to/3Pn749U"rel=”nofollow”  target="_blank" title="ELKTON OUTDOORS STEELHEAD 2 PERSON INFLATABLE FISHING KAYAK">
 
-![ELKTON OUTDOORS STEELHEAD 2 PERSON INFLATABLE FISHING KAYAK](/images/blog/Steelhead1_1261x1261.webp)
+![ELKTON OUTDOORS STEELHEAD 2 PERSON INFLATABLE FISHING KAYAK](/images/posts/steelhead.webp)
 </a>
 
 Whether you are a professional or recreational angler, the Steelhead kayak will be a trusty fishing partner for you. It is designed with two padded high-back seats, so you stay comfortable while waiting for your catch. It is equipped with universal hard mounting points and bungee storage so that you can keep your essentials handy! Attach your fishing rods, rod holders, fish finders, or camera to the mounts so you don’t miss any action! The package also comes with the removable fin and two paddles so riders can cut or glide into the right direction with ease.

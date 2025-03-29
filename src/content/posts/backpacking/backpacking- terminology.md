@@ -1,6 +1,6 @@
 ---
 slug: backpacking-terminology
-title: "Backpacking Terminology"
+title: "Backpacking Terminology: A maintaned curated list of backpacking terms"
 description: ""
 category:
   - backpacking
@@ -14,4 +14,3 @@ author: Damien Wright
 draft: true
 ---
 
-## Backpacking Terminology: A maintaned curated list of backpacking terms
