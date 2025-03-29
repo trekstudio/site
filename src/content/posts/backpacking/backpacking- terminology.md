@@ -11,7 +11,7 @@ tags:
 pubDate: 2023-08-20
 cover: "../assets/images/backpacking-terminology.webp"
 author: Damien Wright
-draft: false
+draft: true
 ---
 
 ## Backpacking Terminology: A maintaned curated list of backpacking terms
