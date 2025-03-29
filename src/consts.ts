@@ -53,22 +53,22 @@ export const LegalLinks = [
 export const SocialLinks = [
   { href: "/rss.xml", icon: "tabler:rss", label: "RSS" },
   {
-    href: "https://instagram.com/huzl_org",
+    href: "https://instagram.com/trekstud/",
     icon: "tabler:brand-instagram",
     label: "Instagram",
   },
   {
-    href: "https://x.com/huzl_org",
+    href: "https://x.com/trekstud",
     icon: "tabler:brand-x",
     label: "X",
   },
   {
-    href: "https://github.com/huzl-org",
+    href: "https://github.com/trekstudio",
     icon: "tabler:brand-github",
     label: "GitHub",
   },
   {
-    href: "https://youtube.com/@huzl-org",
+    href: "https://youtube.com/@trekstud",
     icon: "tabler:brand-youtube",
     label: "YouTube",
   },
